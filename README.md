@@ -1,86 +1,94 @@
-# Hi 👋, I'm Anushka Verma
+<h1 align="center">Hi 👋, I'm Anushka Verma</h1>
 
-## Aspiring Data Analyst | Python Enthusiast | SQL Learner
+<h3 align="center">📊 Aspiring Data Analyst | Python Enthusiast | SQL Learner</h3>
 
-I am a recent graduate passionate about transforming raw data into meaningful insights. I am currently building my skills in Data Analytics and working on projects involving Python, SQL, Excel, and data visualization.
-
-🌱 I am continuously learning new tools and techniques to improve my analytical and problem-solving abilities.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Data+Analyst+📊;Python+%7C+SQL+%7C+Excel;Learning+Power+BI+🚀;Turning+Data+into+Insights+📈" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Graduate (2026 Batch)
-- 📊 Aspiring Data Analyst
-- 🐍 Learning Python for Data Analytics
-- 🗄️ Skilled in SQL fundamentals
-- 📈 Interested in Data Visualization and Business Insights
-- 💡 Passionate about solving real-world problems using data
-- 🚀 Open to internships and entry-level opportunities
+🎓 2026 Graduate
+
+📊 Aspiring Data Analyst
+
+🐍 Learning Python
+
+🗄️ Skilled in SQL
+
+📈 Learning Power BI
+
+🚀 Open to Internships & Opportunities
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### Programming
-- Python
+<p>
+<img src="https://skillicons.dev/icons?i=python,html,css,mysql,github,vscode" />
+</p>
 
-### Databases
-- SQL
-- MySQL
-
-### Data Analysis Tools
-- Microsoft Excel
-- Power BI (Learning)
-
-### Python Libraries
-- NumPy
-- Pandas
-- Matplotlib
-
-### Other Skills
-- Data Cleaning
-- Data Visualization
-- Problem Solving
+**Tools:** Excel • Power BI • Pandas • NumPy • Matplotlib
 
 ---
 
-## 📚 Currently Learning
+## 📈 GitHub Stats
 
-- Advanced SQL
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anu9094&show_icons=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=anu9094"/>
+
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anu9094&layout=compact"/>
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Data Analytics
 - Power BI
+- Data Visualization
 - Exploratory Data Analysis (EDA)
-- Dashboard Creation
-- Statistics for Data Analytics
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-### 📊 Sales Data Analysis
-- Cleaned and analyzed sales data using Python and Pandas.
-- Identified sales trends and business insights.
+🤖 Medical ChatBot
 
-### 📈 Dashboard Project
-- Created interactive dashboards using Power BI.
+📊 SQL Practice Queries
 
-### 🗄️ SQL Practice Queries
-- Solved SQL queries using joins, subqueries, aggregate functions, and window functions.
+📈 Data Analytics Projects
 
 ---
 
-## 🎯 Career Objective
+## 🤝 Connect With Me
 
-To start my career as a Data Analyst and contribute to data-driven decision-making while continuously learning and growing professionally.
+💼 LinkedIn: https://www.linkedin.com/in/anushka-verma-900315263
 
----
+📧 Email: anushkaverma93589@gmail.com
 
-## 📫 Connect With Me
-
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: Add your LinkedIn profile link
-- 🐙 GitHub: Add your GitHub profile link
+🐙 GitHub: https://github.com/anu9094
 
 ---
 
-⭐ Thank you for visiting my profile. Feel free to explore my repositories and connect with me.
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=anu9094&label=Profile%20Views"/>
+
+</p>
+
+⭐ Thanks for visiting my profile!
